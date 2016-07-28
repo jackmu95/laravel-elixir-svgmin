@@ -1,0 +1,22 @@
+{
+  "name": "laravel-elixir-svgmin",
+  "version": "0.1.0",
+  "description": "A Laravel Elixir extension for SVG minification.",
+  "main": "index.js",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jackmu95/laravel-elixir-svgmin/"
+  },
+  "maintainers": [
+    {
+      "name": "Jacob Müller",
+      "email": "jacob.mueller.elz@gmail.com"
+    }
+  ],
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-svgmin": "^1.2.2",
+    "laravel-elixir": "^6.0.0-9"
+  }
+}

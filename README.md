@@ -1,4 +1,4 @@
-# laravel-elixir-svgmin
+# [laravel-elixir-svgmin](https://github.com/jackmu95/laravel-elixir-svgmin/)
 
 [![npm](https://img.shields.io/npm/v/laravel-elixir-svgmin.svg)](https://www.npmjs.com/package/laravel-elixir-svgmin/)
 [![dependency Status](https://img.shields.io/david/jackmu95/laravel-elixir-svgmin.svg)](https://david-dm.org/jackmu95/laravel-elixir-svgmin/)
